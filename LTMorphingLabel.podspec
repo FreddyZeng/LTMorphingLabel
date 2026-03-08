@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
                    "https://cloud.githubusercontent.com/assets/219689/3594949/815cd3e8-0caa-11e4-9738-278a9c959478.gif"
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author             = { "Lex Tang" => "lexrus@gmail.com" }
-  s.social_media_url   = "https://twitter.com/lexrus"
+  s.social_media_url   = "https://x.com/lexrus"
   s.ios.deployment_target = "9.0"
   s.tvos.deployment_target = "9.0"
   s.swift_versions = ['5.3']
